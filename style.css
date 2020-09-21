@@ -1,0 +1,91 @@
+body {
+    background-color: #ebebeb;
+    font-family: 'Open Sans', sans-serif;
+    color: #8d8f91;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.card {
+    background-color: #ffffff;
+    max-width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    -moz-box-shadow: inset 0 0 3px #A9A9A9;
+    -webkit-box-shadow: inset 0 0 3px #A9A9A9;
+    box-shadow: inset 0 0 3px #A9A9A9;
+}
+
+.card2 {
+    background-color: #ffffff;
+    max-width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+    padding: 30px;
+    font-size: 15px;
+    -moz-box-shadow: inset 0 0 3px #A9A9A9;
+    -webkit-box-shadow: inset 0 0 3px #A9A9A9;
+    box-shadow: inset 0 0 3px #A9A9A9;
+}
+
+.post-container {
+    margin: 20px 20px 0 0;
+    overflow: auto
+}
+
+.post-thumb {
+    float: left
+}
+
+.post-thumb img {
+    display: block
+}
+
+.post-content {
+    margin-left: 210px
+}
+
+.post-title {
+    font-weight: bold;
+    font-size: 200%
+}
+
+.img-circle {
+    border-radius: 50%;
+    align-items: center;
+    text-align: center;
+    border: solid 3px darkgray;
+    max-width: 200px;
+    max-height: 200px;
+    margin: 20px;
+}
+
+button {
+    background-color: #dd5555;
+    color: white;
+    border-radius: 3px;
+    border: none;
+    outline: none;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+img {
+    max-width: 70%;
+    max-height: 70%;
+    align-items: center;
+    margin: auto;
+}
+
+.h2 {
+    font-weight: 1000;
+}
