@@ -85,7 +85,3 @@ img {
     align-items: center;
     margin: auto;
 }
-
-.h2 {
-    @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap');
-}
